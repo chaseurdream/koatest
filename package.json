@@ -1,0 +1,18 @@
+{
+  "name": "massive_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app_test.js",
+  "dependencies": {
+    "faker": "^3.1.0",
+    "koa": "^1.2.0",
+    "nodemon": "^1.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "nm": "nodemon",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dream Chaser",
+  "license": "ISC"
+}
